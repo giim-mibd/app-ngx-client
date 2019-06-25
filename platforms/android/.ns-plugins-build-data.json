@@ -1,0 +1,54 @@
+{
+	"tns-core-modules-widgets": {
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\tns-core-modules-widgets\\platforms\\android\\widgets-release.aar": "3ccd997e57128144d7d598fee13ec8f2c95f3834"
+	},
+	"nativescript-ui-autocomplete": {
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-autocomplete\\platforms\\android\\include.gradle": "5c54433fdec1e36014b77bbcf28e5c78db503f7d",
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-autocomplete\\platforms\\android\\typings\\autocomplete.d.ts": "78e6c25c589e02b8cfba7b3be8d7ad479b957eb6",
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-autocomplete\\platforms\\android\\TNSAutoComplete-release.aar": "5af66f6e37f2546e109dbb1b9c8ee1c6b318cfd0"
+	},
+	"nativescript-ui-gauge": {
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-gauge\\platforms\\android\\TNSGauge-release.aar": "ea263c43242bbb73b4239e373e20df53c1b66ae1",
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-gauge\\platforms\\android\\typings\\gauge.d.ts": "ae7cf8821f8c4e0d042b36e74ddadf7221d75797"
+	},
+	"nativescript-ui-dataform": {
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-dataform\\platforms\\android\\typings\\dataform.d.ts": "4e9ec450d20ae85cedd03a2122f492b136e4e22f",
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-dataform\\platforms\\android\\TNSDataForm-release.aar": "b36d0300842c0dcb318b0f3702c80d9149ad5643"
+	},
+	"nativescript-ui-chart": {
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-chart\\platforms\\android\\include.gradle": "9215d2d7039feee434b1e7a84bdfe1a3ba38f298",
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-chart\\platforms\\android\\typings\\chart.d.ts": "542ed6530ab0aad3374ba24a58badecde0a42883",
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-chart\\platforms\\android\\TNSChart-release.aar": "6d6613bdf8191b0d825301c8385ce5cf30e56f98"
+	},
+	"nativescript-ui-calendar": {
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-calendar\\platforms\\android\\typings\\calendar.d.ts": "6157f2e6265baf487e4061a1cda386c02ddc5dda",
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-calendar\\platforms\\android\\TNSCalendar-release.aar": "45b8129b4afe135f2fbd45db41e6d309c1b34af8"
+	},
+	"nativescript-ui-listview": {
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-listview\\platforms\\android\\include.gradle": "455b6fc1ccdd84405dfdbaf9171410e91b54b242",
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-listview\\platforms\\android\\typings\\listview.d.ts": "e3e19b40e51cdf4bda7077ad7ed93c9e2f7ef0e2",
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-listview\\platforms\\android\\TNSListView-release.aar": "f801c8b486d4cc5d4687a1818e90c17592a17daa"
+	},
+	"nativescript-ui-sidedrawer": {
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-sidedrawer\\platforms\\android\\TNSSideDrawer-release.aar": "331c897ac7cc256daac53036a1bd48ba8f2380f5",
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-sidedrawer\\platforms\\android\\typings\\sidedrawer.d.ts": "91ef64e6d1864556d27ded671283ee4a05b7c4eb"
+	},
+	"nativescript-ui-core": {
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-core\\platforms\\android\\typings\\core.d.ts": "5c032652edfa1719ef8c8190fc0f66d3b1c313c2",
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-ui-core\\platforms\\android\\TNSCore-release.aar": "cce16a86c2a6f56ca7243ed8db86b004ecb0016e"
+	},
+	"nativescript-barcodescanner": {
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-barcodescanner\\platforms\\android\\nativescript_barcodescanner.aar": "72cb95a6842d68b7f41d8e992000e770242494c5",
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-barcodescanner\\platforms\\android\\barcodescanner-release-2.1.6.aar": "03bb6a9683c3ee6b620304f321ea48e5de071ae3"
+	},
+	"nativescript-cardview": {
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-cardview\\platforms\\android\\include.gradle": "43c459659c6cfe153e03d237153f1496855e9ec0"
+	},
+	"nativescript-local-notifications": {
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-local-notifications\\platforms\\android\\app-release.aar": "2ffcdb848c87a262fe1780a0a5d14609af363b6d",
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-local-notifications\\platforms\\android\\include.gradle": "38303ee480f10152aeaa901ef8bae2cf9cc79dad"
+	},
+	"nativescript-loading-indicator": {
+		"D:\\CMSProject\\branches\\jmlk\\ngx-client\\node_modules\\nativescript-loading-indicator\\platforms\\android\\nativescript_loading_indicator.aar": "4e2a39f50d19fb7ef98ee50c586b6a2d68adbd4f"
+	}
+}

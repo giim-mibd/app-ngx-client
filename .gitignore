@@ -1,5 +1,5 @@
 # NativeScriptnode_modules/
-platforms/
+#platforms/
 hooks/
 #src/**/*.js
 # compiled output

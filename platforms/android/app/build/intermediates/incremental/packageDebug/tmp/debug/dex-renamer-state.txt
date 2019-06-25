@@ -1,0 +1,4 @@
+#Mon Jun 17 10:26:46 CST 2019
+base.0=D\:\\CMSProject\\branches\\jmlk\\ngx-client\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

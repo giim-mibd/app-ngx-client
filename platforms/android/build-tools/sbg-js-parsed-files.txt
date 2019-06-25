@@ -1,0 +1,4 @@
+D:\CMSProject\branches\jmlk\ngx-client\platforms\android\app\src\main\assets\app\bundle.js
+D:\CMSProject\branches\jmlk\ngx-client\platforms\android\app\src\main\assets\app\starter.js
+D:\CMSProject\branches\jmlk\ngx-client\platforms\android\app\src\main\assets\app\tns-java-classes.js
+D:\CMSProject\branches\jmlk\ngx-client\platforms\android\app\src\main\assets\app\vendor.js
