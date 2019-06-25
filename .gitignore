@@ -1,7 +1,7 @@
 # NativeScriptnode_modules/
 platforms/
 hooks/
-src/**/*.js
+#src/**/*.js
 # compiled output
 /dist
 /tmp
